@@ -1,0 +1,6 @@
+datasets:
+  medllavavqa:
+    data_type: images
+    build_info:
+      storage:
+      vis_root:
