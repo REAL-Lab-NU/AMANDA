@@ -9,7 +9,7 @@ Medical Multimodal Large Language Models (Med-MLLMs) have shown great promise in
 ## 🏗️ Framework Overview
 
 ### AMANDA Pipeline Architecture
-![AMANDA Framework](figures/pipeline.pdf)
+![AMANDA Framework](figures/pipeline.png)
 
 The AMANDA framework comprises five specialized agents working collaboratively:
 - **Perceiver**: Generates medical image descriptions and initial answers
@@ -19,7 +19,7 @@ The AMANDA framework comprises five specialized agents working collaboratively:
 - **Retriever**: Provides extrinsic knowledge augmentation via biomedical knowledge graphs
 
 ### Adaptive Reasoning and In-Context Learning
-![Adaptive Components](figures/icl.pdf)
+![Adaptive Components](figures/icl.png)
 
 AMANDA features two key enhancement mechanisms:
 - **(a) Adaptive Reasoning Refinement**: Dynamic confidence-based control to balance thoroughness with computational efficiency
